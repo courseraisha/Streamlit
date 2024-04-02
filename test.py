@@ -1,13 +1,8 @@
-pip install streamlit
-pip install pandas
-pip install numpy
-pip install plotly
 
 import streamlit as st
 import pandas as pd 
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+
 
 # Title for the app
 st.title("RED DOT FOUNDATION")
