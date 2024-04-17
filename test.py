@@ -1,4 +1,3 @@
-pip install plotly==5.20.0
 import plotly.express as px
 import streamlit as st
 import pandas as pd 
